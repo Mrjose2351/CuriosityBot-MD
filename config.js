@@ -6,10 +6,7 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['59894808483', 'Azami - Creador 🥏', true],
-  ['5214532268948', 'Spetsamurai🌻', true],
-  ['5214531106422'], ['593968585383'], ['5492266613038'], ['5492266466080'],
-  ['50258115623']]  
+  ['573113330182', 'MrJose - Creador 🥏', true],
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.suittag = ['59894808483'] 
@@ -94,17 +91,10 @@ global.author = '@1.0.0'
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
 global.wm = '『 CuriosityBot-MD 』'
-global.azami = 'Azami ©'
+global.azami = 'MrJose ©'
 global.cb = 'CuriosityBot-MD'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 global.vs = '1.0.0'
-global.yt = 'https://www.youtube.com/@Azami_19'
-global.ig = 'https://instagram.com/azami.19'
-global.md = 'https://github.com/Undefined17/CuriosityBot-MD'
-global.nn = 'https://chat.whatsapp.com/JiCOqSlcPVfEDu8WroH6ed'
-global.nnn = 'https://chat.whatsapp.com/LFQY7VlRIjtItIt5nKXHjc'
-global.nna2 = 'JiCOqSlcPVfEDu8WroH6ed'
-global.paypal = 'https://paypal.me/Azami19'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
